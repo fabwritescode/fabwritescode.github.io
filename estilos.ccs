@@ -59,18 +59,21 @@ nav a {
     color: #2a9d8f;
 }
 
-button {
-    background-color: #2a9d8f;
+.btn-whatsapp {
+    display: inline-block;
+    background-color: #25D366;
     color: white;
-    border: none;
     padding: 10px 20px;
     border-radius: 5px;
-    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 5px;
 }
 
-button:hover {
-    background-color: #21867a;
+.btn-whatsapp:hover {
+    background-color: #1da851;
 }
+
 
 /* Pie de página */
 footer {
