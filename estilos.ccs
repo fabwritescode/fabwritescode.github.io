@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Rock Salt;
     margin: 0;
     padding: 0;
 }
