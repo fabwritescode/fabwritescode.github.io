@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    font-family: Rock Salt;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -59,6 +59,28 @@ nav a {
     color: #2a9d8f;
 }
 
+button {
+    background-color: #2a9d8f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #21867a;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
 .btn-whatsapp {
     display: inline-block;
     background-color: #25D366;
@@ -72,14 +94,4 @@ nav a {
 
 .btn-whatsapp:hover {
     background-color: #1da851;
-}
-
-
-/* Pie de página */
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    margin-top: 20px;
 }
