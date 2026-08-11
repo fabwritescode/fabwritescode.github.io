@@ -62,7 +62,7 @@ nav a {
 .btn-whatsapp {
     display: inline-block;
     background-color: #25D366;
-    color: green;
+    color: white;
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
