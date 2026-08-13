@@ -95,3 +95,10 @@ footer {
 .btn-whatsapp:hover {
     background-color: #1da851;
 }
+
+.contenido {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+}
