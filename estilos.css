@@ -19,18 +19,37 @@ body {
 }
 
 /* Encabezado y navegación */
+
 header {
-    background-color: #190A26;
-    color: white;
-    padding: 20px;
+    background: linear-gradient(180deg, #0d0d0d 0%, #2b2b2b 100%);
+    color: #e0e0e0;
+    padding: 25px 20px;
     text-align: center;
+    border-bottom: 2px solid #b0b0b0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.2em;
+    color: #ffffff;
+    text-shadow: 0 0 8px rgba(255,255,255,0.5);
 }
 
 nav a {
-    color: white;
-    margin: 0 10px;
+    color: #d0d0d0;
+    margin: 0 12px;
     text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
 }
+
+nav a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px rgba(255,255,255,0.8);
+}
+
 
 
 /* Sección de productos */
