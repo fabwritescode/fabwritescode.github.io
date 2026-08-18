@@ -32,13 +32,6 @@ nav a {
     text-decoration: none;
 }
 
-/* Banner */
-.banner {
-    background-color: #000000;
-    color: white;
-    text-align: center;
-    padding: 50px 20px;
-}
 
 /* Sección de productos */
 .productos {
