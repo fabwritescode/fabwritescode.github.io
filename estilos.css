@@ -52,6 +52,14 @@ nav a:hover {
 
 
 
+/* Banner */
+
+    .banner-sobremi {
+    text-align: left;
+    padding-left: 40px;
+}
+
+
 /* Sección de productos */
 .productos {
     display: flex;
