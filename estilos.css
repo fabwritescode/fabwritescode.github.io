@@ -52,11 +52,6 @@ nav a:hover {
 
 
 
-    .banner-sobremi {
-    text-align: left;
-    padding-left: 40px;
-}
-
 
 /* Sección de productos */
 .productos {
@@ -131,4 +126,9 @@ footer {
   margin: 0 auto;
   padding: 40px;
   text-align: justify;
+}
+
+ .banner-sobremi {
+    text-align: left;
+    padding-left: 40px;
 }
