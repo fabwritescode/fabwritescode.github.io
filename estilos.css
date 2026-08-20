@@ -54,12 +54,7 @@ nav a:hover {
 
 
 /* Sección de productos */
-.productos {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 20px;
-}
+
 
 .producto {
     border: 1px solid #ddd;
@@ -154,6 +149,10 @@ footer {
 }
 
 .productos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
     flex: 1;
 }
 
